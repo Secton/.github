@@ -1,9 +1,6 @@
 # Hi there! 🤗
 
-👩‍🔬 I'm currently working on 2 winter-themed games: one is simple but multiplayer, the other is a retro winter game (3rd on plans)
-<!-- 👩‍🔬 I'm currently working on [SourceDEFUN](https://github.com/SourceDEFUN/Engine) -->
-
-😬 I'm currently learning how it feels like to study in colleges... Yikes!
+😬 Just found out that this account was mine all along... Yikes!
 
 💬 Ask me about Source Engine's licensing stuff, i'm an expert at it 😎
 
